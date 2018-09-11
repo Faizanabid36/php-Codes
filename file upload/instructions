@@ -1,0 +1,5 @@
+Run the Xampp or Wampp or anyother SoftwareYou Use.
+Open the upload_file.php in You Browser.
+The Main Page is upload_file.php
+While upload.php will perform the Validation.
+The Files UUploaded will s=be Saved in the Uploads Folder.
