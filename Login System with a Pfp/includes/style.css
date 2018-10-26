@@ -1,0 +1,29 @@
+body{
+	font-family: calibri;
+}
+form{
+	margin-left: 43%;
+}
+input{
+	border: 2px black solid;
+	border-top-right-radius: 10px; 
+}
+#submit{
+	padding: 10px;
+	border-radius: 5px;
+	border:solid black 3px;
+	margin-left: 50px	
+}
+h2{
+	text-align: center;
+}
+button{
+	padding-left: 90px;
+	margin-top: 20px;
+	margin-right: 80px;
+	position: relative;
+	padding: 10px;
+	border-radius: 5px;
+	border:solid black 3px;
+	float: right;
+}
